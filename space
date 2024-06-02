@@ -1,0 +1,26 @@
+#ifndef CInputAction_HPP_INCLUDED
+#define CInputAction_HPP_INCLUDED
+// <copyright file="CInputAction.hpp" company="3Dconnexion">
+// ------------------------------------------------------------------------------------------------
+// This file is part of the FreeCAD CAx development system.
+//
+// Copyright (c) 2014-2023 3Dconnexion.
+//
+// This source code is released under the GNU Library General Public License, (see "LICENSE").
+// ------------------------------------------------------------------------------------------------
+// </copyright>
+// <history>
+// ************************************************************************************************
+// File History
+//
+// $Id: CNavigation3D.hpp 16056 2019-04-10 13:42:31Z mbonk $
+//
+// </history>
+
+// SpaceMouse
+#include <SpaceMouse/CActionInputImpl.hpp>
+#include <SpaceMouse/CCategory.hpp>
+#include <SpaceMouse/CCommand.hpp>
+#include <SpaceMouse/CCommandSet.hpp>
+#include <SpaceMouse/CImage.hpp>
+#include <SpaceMouse/INavlib.hpp>
